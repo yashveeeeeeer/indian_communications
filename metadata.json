@@ -1,0 +1,31 @@
+{
+  "name": "indian_communications",
+  "title": "Indian Communications Infrastructure",
+  "description": "Communication infrastructure for India — BBNL/Bharatnet broadband network data and cell tower locations. Data is published as GitHub Releases. Upstream source: ramSeraph/indian_communications; this catalog links to the maintainer copy at yashveeeeeeer/indian_communications.",
+  "category": "infrastructure",
+  "level": "national",
+  "coverage": {
+    "spatial": "India",
+    "temporal": "varies by release"
+  },
+  "sources": [
+    {
+      "name": "ramSeraph / indian_communications",
+      "url": "https://github.com/ramSeraph/indian_communications",
+      "authority": "Upstream community dataset"
+    }
+  ],
+  "license": {
+    "id": "Unspecified",
+    "name": "See upstream releases and files",
+    "url": ""
+  },
+  "formats": ["geojson", "csv", "zip"],
+  "coordinate_system": "EPSG:4326",
+  "storage": "external",
+  "external_url": "https://github.com/yashveeeeeeer/indian_communications/releases",
+  "external_docs": "https://github.com/yashveeeeeeer/indian_communications/blob/main/README.md",
+  "files": [],
+  "attributes": [],
+  "last_updated": "2026-04-04"
+}
